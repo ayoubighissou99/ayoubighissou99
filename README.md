@@ -1,8 +1,7 @@
 ## Hello World👋
 
 
-I'm Ayoub(e) Ighissou and I'm an Artificial Intelligence student and  I've obtained my BSc in Mathematical Engineering from Politecnico di Milano. I'm currently specializing in Complex systems and Quantum Technologies at the University of Milan - Bicocca.
-Since my Bachelor degree I've developed a genuine passion for Probability and Statistics and their application in real world (such as Finance, Data Science, ML)
+My name is Ayoub and I am a student of Artificial Intelligence. I earned my Bachelor of Science in Mathematical Engineering from Politecnico di Milano and am now specializing in Complex Systems and Quantum Technologies at the University of Milan - Bicocca. My interest in Probability and Statistics, and how they can be applied in fields such as Finance, Data Science, and Machine Learning, began during my Bachelor's degree and has only grown stronger since then.
 
 
 :mortar_board: **Education:**
