@@ -10,11 +10,11 @@ Since my Bachelor degree I've developed a genuine passion for Probability and St
  - Bachelor of Science in Mathematical Engineering at `Politecnico di Milano`
 
 ### 💻 **Skills**:
-! [](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-! [](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-! [](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-! [](https://img.shields.io/badge/LaTeX-purple?style=for-the-badge&logo=LaTeX&logoColor=white)
-! [](https://img.shields.io/badge/Matlab-FC4C02?style=for-the-badge&logo=Mathworks&logoColor=white)
+! [R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+! [C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+! [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+! [LaTeX](https://img.shields.io/badge/LaTeX-purple?style=for-the-badge&logo=LaTeX&logoColor=white)
+! [Matlab](https://img.shields.io/badge/Matlab-FC4C02?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 
 :pushpin: **Projects:**
