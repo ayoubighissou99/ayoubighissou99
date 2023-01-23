@@ -34,6 +34,5 @@ My name is Ayoub and I am a student of Artificial Intelligence. I earned my Bach
 - 🌍 I enjoy to discover new cultures
 - 🤾🏽‍♂️ Tchoukball Player
 - 👨🏽‍🍳 Cooking
-- :musical_note: GUE
 
 
