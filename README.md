@@ -19,7 +19,7 @@ My name is Ayoub and I am a student of Artificial Intelligence. I earned my Bach
 
 
 :pushpin: **Projects:**
- - [`Model-based clustering and outlier detection with missing data`](mettere link alla repository)
+ - [`Model-based clustering and outlier detection with missing data`](https://github.com/ayoubighissou99/Missing-Data-Outlier-Detection-1)
  
 
 :loudspeaker: **Contacts:**
