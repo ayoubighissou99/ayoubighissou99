@@ -5,7 +5,7 @@ My name is Ayoub and I am a student of Artificial Intelligence. I earned my Bach
 
 
 :mortar_board: **Education:**
- - Master of Science in Artificial intelligence at `University of Milan - Biccoca`
+ - Master of Science in Artificial intelligence at `University of Milan - Bicocca`
  - Bachelor of Science in Mathematical Engineering at `Politecnico di Milano`
 
 ### 💻 **Skills**:
