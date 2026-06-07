@@ -1,16 +1,17 @@
-## Hi, I'm Ayoube
+## Hi, I'm Ayoub(E)
 
-AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Milano-Bicocca (2026), BSc in Mathematical Engineering from Politecnico di Milano.
+AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Milano-Bicocca and BSc in Mathematical Engineering from Politecnico di Milano.
 
 ---
 
 ### Experience
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Applied AI Engineer** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *May 206 – Present*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *2025 – 2026*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Amazon - Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *Sep. 2025 – Feb. 2026*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *2024 – 2025*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *Oct. 2024 – Aug. 2025*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/eth.svg" height="18" alt="ETH Zurich"> &nbsp; **AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *2024*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/eth.svg" height="18" alt="ETH Zurich"> &nbsp; **ETH Zurich - AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *Apr. 2024 - Sep. 2024*
 
 ---
 
@@ -42,12 +43,14 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 
 **Observability & Eval**
 
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-EE4C2C?style=flat&logoColor=red)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubighissou/)
-&nbsp; `ayoubighissou@gmail.com`
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubighissou/)
+&nbsp; 
+
+- `ayoubighissou@gmail.com`
