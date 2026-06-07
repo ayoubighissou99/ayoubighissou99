@@ -6,11 +6,11 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 
 ### Experience
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *2025 – 2026*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; ** *Amazon* - Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *2025 – 2026*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *2024 – 2025*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; ** *European Central Bank* Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *2024 – 2025*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/eth.svg" height="18" alt="ETH Zurich"> &nbsp; **AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *2024*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/eth.svg" height="18" alt="ETH Zurich"> &nbsp; ** *ETH Zurich* AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *2024*
 
 ---
 
@@ -30,4 +30,5 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubighissou/)
+
 &nbsp; `ayoubighissou@gmail.com`
