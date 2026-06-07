@@ -8,7 +8,7 @@ I build production AI systems — multi-agent pipelines, RAG assistants, Text2SQ
 
 ### Experience
 
-**Software Engineer Intern** · Amazon · Luxembourg · *Sep 2025 – Feb 2026*
+**Businessl Intelligence Engineer Intern** · Amazon · Luxembourg · *Sep 2025 – Feb 2026*
 Production multi-agent pipeline automating EU Supply Chain approvals across 16M+ items — AWS Lambda, SQS, EventBridge, Bedrock.
 
 **Machine Learning Engineer Intern** · European Central Bank · Frankfurt · *Oct 2024 – Aug 2025*
