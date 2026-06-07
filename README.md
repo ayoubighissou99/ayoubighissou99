@@ -6,11 +6,11 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 
 ### Experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/320px-Amazon_logo.svg.png" height="16" alt="Amazon"> &nbsp; **Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *2025 – 2026*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *2025 – 2026*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/European_Central_Bank_logo.svg/200px-European_Central_Bank_logo.svg.png" height="16" alt="ECB"> &nbsp; **Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *2024 – 2025*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *2024 – 2025*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ETH_Z%C3%BCrich_Logo_black.svg/320px-ETH_Z%C3%BCrich_Logo_black.svg.png" height="14" alt="ETH Zurich"> &nbsp; **AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *2024*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/eth.svg" height="18" alt="ETH Zurich"> &nbsp; **AI Research Engineer Intern** &nbsp;·&nbsp; Zurich &nbsp;·&nbsp; *2024*
 
 ---
 
