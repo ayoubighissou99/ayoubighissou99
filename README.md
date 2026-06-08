@@ -5,7 +5,7 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 ---
 
 ### Experience
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Applied AI Engineer** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *May 206 – Present*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Applied AI Engineer** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *May 2026 – Present*
 
 <img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Amazon - Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *Sep. 2025 – Feb. 2026*
 
@@ -43,14 +43,11 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 
 **Observability & Eval**
 
-![Langfuse](https://img.shields.io/badge/Langfuse-EE4C2C?style=flat&logoColor=red)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
 ### Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubighissou/)
-&nbsp; 
-
-- `ayoubighissou@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubighissou/) &nbsp; `ayoubighissou@gmail.com`
