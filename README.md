@@ -5,9 +5,9 @@ AI/ML engineer. MSc in Artificial Intelligence at Università degli Studi di Mil
 ---
 
 ### Experience
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Applied AI Engineer** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *May 2026 – Present*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp;     **European Central Bank - Applied AI Engineer** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *May 2026 – Present*
 
-<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp; **Amazon - Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *Sep. 2025 – Feb. 2026*
+<img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/amazon.jpeg" height="18" alt="Amazon"> &nbsp;      **Amazon - Business Intelligence Engineer Intern** &nbsp;·&nbsp; Luxembourg &nbsp;·&nbsp; *Sep. 2025 – Feb. 2026*
 
 <img src="https://raw.githubusercontent.com/ayoubighissou99/ayoubighissou99/main/assets/ecb.svg" height="18" alt="ECB"> &nbsp; **European Central Bank - Machine Learning Engineer Intern** &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; *Oct. 2024 – Aug. 2025*
 
